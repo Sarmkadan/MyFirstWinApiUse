@@ -1,0 +1,7 @@
+C:\Users\Sarmkadan\Desktop\TestWinAPI\bin\Debug\TestWinAPI.exe
+C:\Users\Sarmkadan\Desktop\TestWinAPI\bin\Debug\TestWinAPI.pdb
+C:\Users\Sarmkadan\Desktop\TestWinAPI\obj\Debug\TestWinAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sarmkadan\Desktop\TestWinAPI\obj\Debug\TestWinAPI.MainForm.resources
+C:\Users\Sarmkadan\Desktop\TestWinAPI\obj\Debug\TestWinAPI.csproj.GenerateResource.Cache
+C:\Users\Sarmkadan\Desktop\TestWinAPI\obj\Debug\TestWinAPI.exe
+C:\Users\Sarmkadan\Desktop\TestWinAPI\obj\Debug\TestWinAPI.pdb
